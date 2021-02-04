@@ -41,3 +41,13 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+a {
+  text-decoration: none;
+  color: #d45f5f;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #d45f5f;
+  }
