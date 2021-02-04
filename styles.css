@@ -7,29 +7,31 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
-
+.header {
+  text-align: center;
+}
 body {
-  background-color:#111d5e;
-}
+  background-color:#fcf8ec;
+  }
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #c70039;
-  font-size: 8rem;
-  color: #c0e218;
+  font-family: 'Public Sans', sans-serif;;
+  font-size: 5rem;
+  color: #456268;
+text-align: center;
 }
 
 p {
-  font-size: 2rem;
-  color: #c0e218;
-  font-family: 'Indie Flower', cursive;
+  font-size: 2.5rem;
+  color: #79a3b1;
+  font-family: 'Work Sans', sans-serif;
 }
 
 img {
-  width: 80%;
+  width: 55%;
+  margin-bottom: 30px;
 }
 
 footer {
